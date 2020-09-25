@@ -1,3 +1,5 @@
+header("Access-Control-Allow-Origin:https://modelviewer.dev");
+
 /**
  * @license
  * Copyright (c) 2017 The Polymer Project Authors. All rights reserved.

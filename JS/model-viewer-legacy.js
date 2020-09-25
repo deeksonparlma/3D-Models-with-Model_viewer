@@ -1,3 +1,4 @@
+header("Access-Control-Allow-Origin:https://modelviewer.dev");
 /**
  * Copyright (c) 2014-present, Facebook, Inc.
  *
